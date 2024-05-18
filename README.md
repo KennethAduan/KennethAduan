@@ -38,12 +38,15 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KennethAduan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KennethAduan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAduan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/KennethAduan/KennethAduan/output/snake.svg" alt="Snake animation" />
 
----
-[![](https://visitcount.itsvg.in/api?id=KennethAduan&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KennethAduan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennethAduan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
